@@ -1,0 +1,1 @@
+# amaoed-cpp-template
